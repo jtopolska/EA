@@ -1,4 +1,6 @@
 # EA
-npm i > 
-frontend -> npm start > 
+npm i  
+
+frontend -> npm start  
+
 backend -> npm run dev
