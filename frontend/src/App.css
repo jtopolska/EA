@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    
+}
+
+.fields {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    padding: 40px 20px 20px 20px;
+}
+
+.file, .title {
+    margin-bottom: 10px;
+}
+
+.title {
+    padding: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.news-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    padding: 20px;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    padding: 20px 0;
+    border-bottom: 1px solid grey;
+}
+
+li img {
+    width: 100%;
+}
+
+li h3 {
+    margin: 10px 0;
+}
+
+li p {
+    margin: 8px 0;
+}
